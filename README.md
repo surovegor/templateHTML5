@@ -4,10 +4,10 @@
 
 ### Start
 
-Your working folder / app, it contains HTML, CSS and JS files.
+Your working folder **/ app**, it contains HTML, CSS and JS files.
 
 ### Phase
 
-1) npm i (npm modules setup based on gulpfile.js assembly)
-2) gulp - getting started gulp (creating a server)
-3) gulp build - build project
+1) **npm i** (npm modules setup based on gulpfile.js assembly)
+2) **gulp** - getting started gulp (creating a server)
+3) **gulp** build - build project
