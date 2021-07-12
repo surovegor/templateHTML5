@@ -5,6 +5,7 @@
 ### Start
 
 Your working folder **/ app**, it contains HTML, CSS and JS files.
+
 **/ build **- Finished part of the project.
 
 ### Phase
